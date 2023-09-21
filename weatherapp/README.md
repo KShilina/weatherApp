@@ -1,3 +1,16 @@
+Weather App is a single page application where user can check weather in any city in real time. Application build with NEXT JS, OpenWeatherMap API and Tailwind CSS for styling.
+
+## Build with:
+* Next JS App
+* Tailwind CSS
+* Axios API Calls
+* <https://openweathermap.org/api> - OpenWeatherMap API
+
+## Demo
+![Screensot1](docs/LondonWeather.png)
+![Screensot2](docs/OttawaWeather.png)
+![Screensot3](docs/TorontoWeather.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
