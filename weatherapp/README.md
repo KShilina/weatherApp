@@ -1,5 +1,8 @@
 Weather App is a single page application where user can check weather in any city in real time. Application build with NEXT JS, OpenWeatherMap API and Tailwind CSS for styling.
 
+## Deployed on Vercel: 
+DEMO: <https://weatherapp-ekaterina.vercel.app> 
+
 ## Build with:
 * Next JS App
 * Tailwind CSS
