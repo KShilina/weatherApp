@@ -9,7 +9,7 @@ DEMO: <https://weatherapp-ekaterina.vercel.app>
 * Axios API Calls
 * <https://openweathermap.org/api> - OpenWeatherMap API
 
-## Demo
+## Screenshots:
 ![Screensot1](docs/LondonWeather.png)
 ![Screensot2](docs/OttawaWeather.png)
 ![Screensot3](docs/TorontoWeather.png)
