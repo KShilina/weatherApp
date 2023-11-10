@@ -1,10 +1,12 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  reactStrickMode: true,
+}
 
 module.exports = {
   images: {
     domains: [
-      'images.unsplash.com'
+      'images.unsplash.com','openweathermap.org'
     ]
   }
 }
